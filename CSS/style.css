@@ -1,0 +1,50 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: "Poppins", sans-serif;
+    color: orange;
+}
+
+#first_line{
+    color:red;
+    font-family: "Roboto", sans-serif;
+    font-size: 40px;
+   
+}
+#first_para{
+    color:blue;
+    font-family: "Edu TAS Beginner", cursive;
+    font-size: 30px;
+
+}
+
+p{
+    color:black;
+    font-family: "Roboto", sans-serif;
+    font-size: 30px;
+    text-align: justify;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+
+img{
+    margin-left: 50px;
+    
+}
+
+span{
+     font-size: 50px
+}
+#last_line{
+    background-color: rgb(224, 0, 0);
+    color:white:
+    text-decoration: none:
+    font-size: 20px;
+    width: 200px;
+    height: 50px;
+    display: block;
+    text-align: center;
+    line-height: 50px;
+}
+
